@@ -28,4 +28,4 @@ My Email: <kingbridgess@outlook.com>
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=KingBridgeSS")
+![](https://github-readme-stats.vercel.app/api?username=kingbridgess)
