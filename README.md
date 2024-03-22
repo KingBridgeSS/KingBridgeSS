@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm KingBridgeSS
 
-<!--
-**KingBridgeSS/KingBridgeSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from BUPT(Beijing University of Posts and Telecommunications), member of Dubhe hacking security.
 
-Here are some ideas to get you started:
+I currently working and focusing on nothing ( xd .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Blog: <https://blog.queenbridge.tech/>
+
+---
+
+
+### 💻 Environment
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+
+
+### 📫 Contact me
+
+My Email: <kingbridgess@outlook.com>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📈 Badgets
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=KingBridgess")
