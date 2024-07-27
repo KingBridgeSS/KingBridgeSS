@@ -1,7 +1,5 @@
 ### Hi there, I'm KingBridgeSS
 
-I'm a student from BUPT(Beijing University of Posts and Telecommunications), member of Dubhe hacking security.
-
 I currently working and focusing on nothing ( xd .
 
 My Blog: <https://blog.queenbridge.tech/>
