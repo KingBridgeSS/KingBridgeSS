@@ -2,7 +2,7 @@
 
 I currently working and focusing on nothing ( xd .
 
-My Blog: <https://blog.queenbridge.tech/>
+My Blog: <https://blog.kingbridge.one/>
 
 ---
 
