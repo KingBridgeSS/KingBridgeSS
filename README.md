@@ -1,6 +1,6 @@
 ### Hi there, I'm KingBridgeSS
 
-I currently working and focusing on nothing ( xd .
+Currently live like a cyberpsycho.
 
 My Blog: <https://blog.kingbridge.one/>
 
