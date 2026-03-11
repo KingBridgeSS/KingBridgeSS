@@ -2,7 +2,7 @@
 
 Currently live like a cyberpsycho.
 
-My Blog: <https://blog.kingbridge.one/>
+My Blog: <https://blog.kingbridges.top/>
 
 ---
 
