@@ -20,8 +20,6 @@ My Email: <kingbridgess@outlook.com>
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C421%20hrs%2053%20mins-blue?style=flat)
-
 **I Mostly Code in Python** 
 
 ```text
