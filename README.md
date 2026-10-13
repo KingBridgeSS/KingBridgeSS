@@ -28,37 +28,37 @@ My Email: <kingbridgess@outlook.com>
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 8 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   56.87 % 
-Other                    2 hrs 35 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.12 % 
-TeX                      1 hr 15 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.74 % 
-Python                   37 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.30 % 
-PowerShell               32 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.72 % 
+Markdown                 6 hrs 1 min         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.64 % 
+TeX                      1 hr 15 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.61 % 
+Other                    1 hr                ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.17 % 
+PowerShell               32 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.37 % 
+JSON                     25 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.31 % 
 
 💻 Operating System: 
-WSL                      11 hrs 13 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   78.32 % 
-Windows                  3 hrs 6 mins        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.68 % 
+WSL                      6 hrs 49 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   68.74 % 
+Windows                  3 hrs 6 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 31 mins (66.51%)
+⏱ AI Coding Time: 5 hrs 35 mins (56.3%)
 
-✍️ 3,728 lines written by AI, 225 lines written by hand (94.31% AI-written)
+✍️ 1,996 lines written by AI, 222 lines written by hand (89.99% AI-written)
 
-🔤 8,205,765 Input Tokens, 1,333,908 Output Tokens
+🔤 1,463,610 Input Tokens, 422,519 Output Tokens
 
-💵 $369.82 Estimated AI Cost This Week
+💵 $34.55 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 71 AI Prompts
+🧠 15 AI Sessions, 43 AI Prompts
 
-GPT                      1,839 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+GPT                      107 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.31% of written lines came from AI
-📝 Concise Prompter — average 136 characters per prompt
+🤖 AI-Driven — 89.99% of written lines came from AI
+📝 Concise Prompter — average 162 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.07% of changed lines were hand-edited
+🚀 High AI Trust — 10.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
